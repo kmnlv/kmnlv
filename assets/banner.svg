@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Karla Monroy - AI and Data Analytics</title>
+  <desc id="desc">Dark blue banner with a small network of connected nodes and the text Hi, I'm Karla.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1020"/>
+      <stop offset="100%" stop-color="#1B1B3A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5EEAD4"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <g fill="none" stroke="#8FA3C8" stroke-width="1.5" opacity="0.45">
+    <line x1="860" y1="90" x2="970" y2="150"/>
+    <line x1="860" y1="90" x2="1020" y2="80"/>
+    <line x1="970" y1="150" x2="1090" y2="120"/>
+    <line x1="970" y1="150" x2="1040" y2="230"/>
+    <line x1="1020" y1="80" x2="1090" y2="120"/>
+    <line x1="1090" y1="120" x2="1040" y2="230"/>
+    <line x1="860" y1="230" x2="970" y2="150"/>
+    <line x1="860" y1="230" x2="1040" y2="230"/>
+  </g>
+  <g>
+    <circle cx="860" cy="90" r="8" fill="#5EEAD4"/>
+    <circle cx="860" cy="230" r="8" fill="#5EEAD4"/>
+    <circle cx="1020" cy="80" r="10" fill="#A78BFA"/>
+    <circle cx="970" cy="150" r="12" fill="#F8FAFC"/>
+    <circle cx="1090" cy="120" r="9" fill="#A78BFA"/>
+    <circle cx="1040" cy="230" r="8" fill="#5EEAD4"/>
+  </g>
+  <text x="60" y="120" fill="#F8FAFC" font-family="Verdana, DejaVu Sans, sans-serif" font-size="52" font-weight="700">Hi, I'm Karla.</text>
+  <text x="60" y="185" fill="url(#accent)" font-family="Verdana, DejaVu Sans, sans-serif" font-size="24">AI &amp; Data Analytics · models, metrics, and slightly too many notebooks</text>
+  <text x="60" y="235" fill="#A9B6CC" font-family="Verdana, DejaVu Sans, sans-serif" font-size="21">MSc graduate · UACJ, Mexico · github.com/kmnlv</text>
+  <rect x="60" y="270" width="120" height="4" rx="2" fill="url(#accent)"/>
+</svg>
