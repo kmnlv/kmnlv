@@ -4,7 +4,9 @@
 
 [![MSc](https://img.shields.io/badge/MSc-AI%20%26%20Data%20Analytics-6D28D9?style=for-the-badge)](https://github.com/kmnlv)
 [![projects](https://img.shields.io/badge/projects-19%20public-0EA5E9?style=for-the-badge)](https://github.com/kmnlv?tab=repositories)
-[![UACJ](https://img.shields.io/badge/UACJ-M%C3%A9xico-14B8A6?style=for-the-badge)](https://github.com/kmnlv)
+[![UACJ](https://img.shields.io/badge/MSc-UACJ%2C%20M%C3%A9xico-14B8A6?style=for-the-badge)](https://github.com/kmnlv)
+[![Mechatronics](https://img.shields.io/badge/Mechatronics-USonora-F59E0B?style=for-the-badge)](https://github.com/kmnlv)
+[![AI Software Engineer](https://img.shields.io/badge/AI%20Software%20Engineer-working-22C55E?style=for-the-badge)](https://github.com/kmnlv)
 
 </div>
 
@@ -12,7 +14,7 @@
 
 ## Hola, I'm Karla 👋
 
-I'm an AI and data analytics graduate from UACJ in Mexico. Over the last two years I turned my master's coursework into small, honest repositories: data-quality checks, regression diagnostics, recurrent networks, multilingual embeddings, image generation, forecasting, and a few essays about what all of this means for people.
+I'm a mechatronics engineer (Universidad de Sonora), an AI Software Engineer, and an MSc graduate in AI and Data Analytics from UACJ in Mexico. Over the last two years I turned my master's coursework into small, honest repositories: data-quality checks, regression diagnostics, recurrent networks, multilingual embeddings, image generation, forecasting, and a few essays about what all of this means for people.
 
 This account is my portfolio. No 2 GB ZIPs, no mystery megabytes, no giant monorepo — just **19 public projects**, each with its own English README, a clear scope, and enough context to re-run the interesting parts.
 
@@ -24,6 +26,7 @@ My thesis was an LSTM pipeline for forecasting process composition in the Tennes
 - **Build models that can be checked.** Baselines first, leakage-free splits, metrics with their caveats attached.
 - **Explain the result.** If I can't say *why* a number moved, the number doesn't count.
 - **Write it down.** Code in notebooks, conclusions in English, even when the source material was Spanish.
+- **Keep one foot in engineering.** My mechatronics background makes me suspicious of models that only work inside a notebook.
 
 ## A few projects you might like
 
