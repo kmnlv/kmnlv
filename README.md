@@ -15,13 +15,13 @@
 
 Mechatronics engineer (Universidad de Sonora, 2024), AI Software Engineer working on industrial computer vision and anomaly detection, and an **MSc candidate** in AI and Data Analytics at UACJ. Based in Hermosillo, Mexico, with English as my daily professional language.
 
-By day I work on production inference systems: PyTorch models (autoencoders, ViT, U-Net, transfer learning), FastAPI services, MLflow tracking, image streams from industrial vision sources, and the unglamorous plumbing that keeps latency honest. One middleware redesign took a manufacturing inference pipeline from about **240 ms to 47 ms**.
+By day I work on production inference systems: PyTorch models (autoencoders, ViT, U-Net, transfer learning), FastAPI services, MLflow tracking, image streams from industrial vision sources, and the service-level details that make latency predictable. One middleware redesign took a manufacturing inference pipeline from about **240 ms to 47 ms**.
 
-This account is my coursework and research portfolio — **not** my production work. No 2 GB ZIPs, no mystery megabytes: just **19 public projects**, each with its own English README and enough context to re-run the interesting parts. My thesis looks at forecasting and early warning on the Tennessee Eastman Process, and a first-author paper on sliding-window evaluation bias was accepted at **CILOG 2026**.
+Alongside my production work, this account is a focused portfolio of **19 public projects**, each with its own English README and enough context to re-run the interesting parts. My thesis looks at forecasting and early warning on the Tennessee Eastman Process, and a first-author paper on sliding-window evaluation bias was accepted at **CILOG 2026**.
 
 ## What I actually do
 
-- **Make messy data behave.** Missing values, odd formats, suspicious columns — I quite like the unglamorous part.
+- **Make messy data behave.** Missing values, odd formats, suspicious columns — I enjoy the detail work most people skip.
 - **Ship models, not just notebooks.** Production CV and anomaly detection, ONNX exports, monitoring and traceability across services.
 - **Build models that can be checked.** Baselines first, leakage-free splits, metrics with their caveats attached.
 - **Explain the result.** If I can't say *why* a number moved, the number doesn't count.
@@ -51,7 +51,7 @@ Browse [all repositories](https://github.com/kmnlv?tab=repositories) — roughly
 - If a metric improves, I want to know which split made it happen.
 - A notebook is a hypothesis; a service is a promise.
 - Notebooks are for thinking, READMEs are for other humans.
-- I will rename a figure twelve times before I'm happy. This is a feature.
+- I polish figures until each one says exactly one thing.
 
 ## Still curious about
 
@@ -59,10 +59,10 @@ Closing the gap between research code and production ML — MLOps maturity, syst
 
 ## Say hi
 
-I'm on GitHub as **[@kmnlv](https://github.com/kmnlv)**. Open to ML/data roles where research rigor and production engineering meet. Star a repo if it helped you, open an issue if something looks odd, or just browse around — the coffee-fueled notebooks are harmless.
+I'm on GitHub as **[@kmnlv](https://github.com/kmnlv)**. Interested in ML/data problems where research rigor and production engineering meet. Star a repo if it helped you, open an issue if something looks odd, or just browse around — the notebooks are labelled and safe to clone.
 
 <div align="center">
 
-Built with ☕, PyTorch, and a mildly concerning number of `.ipynb` files.
+Built with ☕, PyTorch, and a lot of well-organised notebooks.
 
 </div>
